@@ -15,12 +15,12 @@
 
 ## 프로젝트 정체성: What is VIBECODE?
 
-이 프로젝트는 **전통적인 코딩 방식(Syntax-driven)**을 따르지 않았습니다.
-오직 **자연어 프롬프트와 아키텍처 설계(Logic-driven)**만으로 완성된 **100% NOCODE / VIBECODE** 결과물입니다.
+이 프로젝트는 전통적인 코딩 방식(Syntax-driven)을 따르지 않았습니다.
+오직 자연어 프롬프트와 아키텍처 설계(Logic-driven)만으로 완성된 100% NOCODE / VIBECODE 결과물입니다.
 
-개발자는 **"무엇을 만들고 싶은지(Vibe)"**를 정의했고, AI는 그 의도를 완벽한 **FastAPI 백엔드 코드**로 구현했습니다. 복잡한 ML 모듈 통합부터 에러 핸들링, 파일 구조화까지 모든 라인(Line of Code)은 AI와의 대화를 통해 탄생했습니다.
+개발자는 "무엇을 만들고 싶은지(Vibe)"를 정의했고, AI는 그 의도를 완벽한 FastAPI 백엔드 코드로 구현했습니다. 복잡한 ML 모듈 통합부터 에러 핸들링, 파일 구조화까지 모든 라인(Line of Code)은 AI와의 대화를 통해 탄생했습니다.
 
-### 🎭 Role Definition
+###  Role Definition
 * **Director (Human)**: 아키텍처 설계, 모듈 선정, 비즈니스 로직 정의, "Vibe" 전달
 * **Developer (AI Agent)**: Python 코딩, 디버깅, 리팩토링, 문서화
 
